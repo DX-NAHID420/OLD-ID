@@ -1,6 +1,6 @@
 # OLD-ID 
 [🌺]> Again Update Done
- For Old Id Cloning
+ For Old Id Cloning 
 pkg update
 pkg upgrade
 pkg install python
