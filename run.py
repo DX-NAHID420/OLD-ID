@@ -61,4 +61,4 @@ def clear():
 print(f'\033[1;91m[\033[1;92m●\033[1;91m]\x1b[38;5;46m THIS TOOL UPDATEING PLEASE WAIT...')
 os.system('xdg-open https://m.facebook.com/groups/330610146681803/');time.sleep(1)
 try:
-	os.system('python run.py')
+	
