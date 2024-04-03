@@ -1,6 +1,6 @@
 #--------------------INFO-------------------#
 #CODING BY ARIYAN
-#SCRIPT RANDOM CLONE 
+#SCRIPT OLD ID CLONE 
 #FACEBOOK > X R BIN ARIYAN
 #GITHUB > DX-NAHID420
 #--------------------😇😇-------------------#
